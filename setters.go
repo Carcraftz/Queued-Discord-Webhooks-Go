@@ -1,4 +1,4 @@
-package queuedwebhooksdiscord
+package godiscord
 
 import (
 	"errors"

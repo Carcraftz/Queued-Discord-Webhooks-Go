@@ -1,4 +1,4 @@
-package queuedwebhooksdiscord
+package godiscord
 
 func NewEmbed(Title, Description, URL string) Embed {
 	e := Embed{}

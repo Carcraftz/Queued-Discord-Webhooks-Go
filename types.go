@@ -1,4 +1,4 @@
-package queuedwebhooksdiscord
+package godiscord
 
 //Embed is a struct representing a Discord embed object
 type Embed struct {
